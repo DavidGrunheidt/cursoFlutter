@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71119392293",
+    "firebase_url": "https://lojaflutter-81df7.firebaseio.com",
+    "project_id": "lojaflutter-81df7",
+    "storage_bucket": "lojaflutter-81df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71119392293:android:d489a32d4e462ca8a839cc",
+        "android_client_info": {
+          "package_name": "ordine.com.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71119392293-ih0isdav14t465b4597turunrilsdmg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvbDJtwwNyI6nDHVOGHkn8LK28KIrW9LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71119392293-ih0isdav14t465b4597turunrilsdmg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
