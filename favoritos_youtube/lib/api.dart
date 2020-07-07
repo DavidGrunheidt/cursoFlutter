@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'models/video.dart';
 
-const API_KEY = "AIzaSyDTvZLfGZKN8YqedR-nMEr0RQrdKsro9vU";
+const API_KEY = "hehe";
 
 class Api {
 
